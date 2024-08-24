@@ -35,3 +35,4 @@ frp 采用 Go 语言编写，支持跨平台，只需下载适用于您平台的
 有关如何编写配置文件，请参考 [示例](../examples/) 部分中的内容。
 
 完整的配置项说明，请参考 [Reference](../reference/) 中的内容。
+完整的docker配置教程可以查看：https://gitcode.csdn.net/66c6d7c68f4f502e1cfca28b.html
